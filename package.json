@@ -1,0 +1,11 @@
+{
+  "name": "LoganBot",
+  "version": "1.0.0",
+  "description": "wow... it maybe works",
+  "main": "bot.js",
+  "author": "𝕙𝕞𝕞#3062",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
